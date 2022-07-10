@@ -1,0 +1,259 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo {
+    position: absolute;
+    border-radius: 50%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 619px;
+    top: 207px;
+    right: 621px;
+    bottom: 617px;
+    border: 2px solid #BB99DD;
+    background: #C4C4C4;
+}
+
+.l1 {
+
+    width: 297px;
+    height: 231.26px;
+    left: 552px;
+    top: 201px;
+    right: 591px;
+    bottom: 591.74px;
+    background: url(69962822_103990831033460_2959768243194162097_n.jpg);
+
+}
+
+h2 {
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 669px;
+    top: 429px;
+    right: 672px;
+    bottom: 571px;
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #BB99DD;
+}
+
+.p1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 486px;
+    right: 558px;
+    bottom: 489px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.p2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 551px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.p3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 616px;
+    right: 558px;
+    bottom: 359px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+
+.p4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 681px;
+    right: 558px;
+    bottom: 294px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.link1 {
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    left: 697px;
+    top: 498px;
+    right: 696px;
+    bottom: 502px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #BB99DD;
+}
+
+.link2 {
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    left: 697px;
+    top: 563px;
+    right: 556px;
+    bottom: 437px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #BB99DD;
+}
+
+.link3 {
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    left: 697px;
+    top: 628px;
+    right: 556px;
+    bottom: 372px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #BB99DD;
+}
+
+.link4 {
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    left: 697px;
+    top: 693px;
+    right: 556px;
+    bottom: 307px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #BB99DD;
+}
+
+.listf {
+    display: flex;
+    list-style: none;
+}
+
+.git {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 813px;
+    top: 798px;
+}
+
+.linkedin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 760px;
+    top: 798px;
+}
+
+.insta {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 707px;
+    top: 798px;
+}
+
+.twitch {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 654px;
+    top: 798px;
+}
+
+.twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 601px;
+    top: 798px;
+}
